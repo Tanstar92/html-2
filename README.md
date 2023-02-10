@@ -1,0 +1,7 @@
+# html-2
+html assignment 2
+<!--1. My first step was creating a new file and HTML structure and title. -->
+<!-- 2. I worked on the elements that were easy to recall, creating 7 horizontal lines. Inserted the provided text above the first "hr" line adding strikeout and bold text where required, and italic content into the second "hr". and photo into 5th. then added contact info into the last section. -->
+<!-- i worked on the first table applying caption and table structures to the data provided. For the second table, i applied labels, forms, checkboxes, drop-down lists, passwords, and buttons. -->
+<!-- 4. challenging areas: I couldn't find any examples of the check box that displayed the input before the label after some trial and error i realized that the input and label only needed to be switched. and the second challenge was when i realized that all of my text had been written in italics, and i couldn't understand why it was reflecting onto the rest of my text if it was within it's own inline element. So i wrapped the italic element with its own paragraph but was still unable to correct the issue until i decided to create a style id within the header and create a unique style id so the italic font would only apply to the one specif area with the webpage, and it was successful.
+5. I checked for spelling and grammatical errors, missing line breaks or duplicate elements. closing tags, spacing etc. -->
